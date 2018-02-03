@@ -1,0 +1,14 @@
+.text_box{
+	width: 500px ;
+	height: 150px ;
+	font-size: 13pt ;
+	position: absolute;
+	left:450px;
+	top:300px;
+}
+
+.button_submit{
+	position: absolute;
+	left:840px;
+	top:500px;
+}
