@@ -4,6 +4,7 @@
   "description": "An app that tells you about your personality type",
   "main": "index.js",
   "scripts": {
+    "start": "node server.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -17,6 +18,7 @@
   },
   "homepage": "https://github.com/willievuong/personifYou#readme",
   "dependencies": {
-    "express": "^4.16.2"
+    "express": "^4.16.2",
+    "watson-developer-cloud": "^3.0.5"
   }
 }
