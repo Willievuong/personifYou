@@ -1,0 +1,22 @@
+{
+  "name": "personifyou",
+  "version": "1.0.0",
+  "description": "An app that tells you about your personality type",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/willievuong/personifYou.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/willievuong/personifYou/issues"
+  },
+  "homepage": "https://github.com/willievuong/personifYou#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}

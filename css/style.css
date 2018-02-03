@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 .text_box{
 	width: 500px ;
 	height: 150px ;
@@ -11,4 +12,12 @@
 	position: absolute;
 	left:840px;
 	top:500px;
+=======
+.apple{
+	color: blue;
+}
+
+body{
+	font-size: 1500px;
+>>>>>>> c47473dc62fe3fa740d8689b3fc0a470adc0dcf7
 }
